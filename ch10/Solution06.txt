@@ -1,0 +1,4 @@
+Solution :
+
+Instead of moving the entire data into memory we can split the data into number of chunks and sort these chunks of data
+and merge them to back to single file.
